@@ -42,15 +42,6 @@ StudyNotion aims to provide:
 - Data Visualization: Chart.js
 - UI Components: React-Stars, Swipe Slider, and more.
 
-## How it Works
-Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech platform:
-
-<img width="573" alt="Screenshot 2023-12-13 at 5 39 37 PM" src="https://github.com/Siddharth-Dagar-25/Study-Notion/assets/97306013/7db64fbc-08a3-49a6-95ea-2b12518de3d3">
-
-The back-end of StudyNotion is designed to provide a robust and scalable solution for an ed-tech platform, with a focus on security, reliability, and ease of use. By using the right frameworks, libraries, and tools, we can ensure that the platform functions smoothly and provides an optimal user experience for all its users.
-
-<img width="574" alt="Screenshot 2023-12-13 at 5 39 52 PM" src="https://github.com/Siddharth-Dagar-25/Study-Notion/assets/97306013/22c668f4-f113-4d1a-b919-6f993c8ed9fc">
-
 ## Getting Started
 
 ### Prerequisites
@@ -62,21 +53,20 @@ The back-end of StudyNotion is designed to provide a robust and scalable solutio
 
 ### Installation
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Siddharth-Dagar-25/todo-application
-2. **Install dependencies for the server:**
+2. 
+3. **Install dependencies for the server:**
     ```cd server
     npm install
-3. **Install dependencies for the client:**
+4. **Install dependencies for the client:**
     ```cd client
     npm install
-4. **Set up environment variables:**
+5. **Set up environment variables:**
     In the server directory, create a .env file and configure your environment variables (e.g., database URI, port number, Razorpay key, etc.).
     
-5. **Start the server:**
+6. **Start the server:**
     ```cd server
     npm run dev
-6. **Start the client:**
+7. **Start the client:**
     ```cd ../client
     npm run dev
 ## Contributing
