@@ -53,22 +53,26 @@ StudyNotion aims to provide:
 
 ### Installation
 1. **Clone the repository:**
-2. 
-3. **Install dependencies for the server:**
+
+2. **Install dependencies for the server:**
     ```cd server
     npm install
-4. **Install dependencies for the client:**
+3. **Install dependencies for the client:**
     ```cd client
     npm install
-5. **Set up environment variables:**
+4. **Set up environment variables:**
     In the server directory, create a .env file and configure your environment variables (e.g., database URI, port number, Razorpay key, etc.).
     
-6. **Start the server:**
+5. **Start the server:**
     ```cd server
     npm run dev
-7. **Start the client:**
+6. **Start the client:**
     ```cd ../client
     npm run dev
+
+7. **It works 🔥🔥**
+
+
 ## Contributing
 I welcome any and all contributions! Here are some ways you can get started:
 
